@@ -1,0 +1,6 @@
+const myVariable=("mathematics")
+console.log(myVariable.charAt(5))
+console.log(myVariable.indexOf("tic"))
+console.log(myVariable.lastIndexOf("at"))
+console.log(myVariable.toUpperCase())
+console.log(myVariable.includes("ati"))
